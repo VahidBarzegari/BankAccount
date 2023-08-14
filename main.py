@@ -205,5 +205,4 @@ if __name__ == "__main__":
         Bank_object.register(name, ph, password)
 
 
-class Error(Exception):
-    pass
+
