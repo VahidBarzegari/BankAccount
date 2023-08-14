@@ -203,3 +203,6 @@ if __name__ == "__main__":
         ph = int(input("Enter Phon_number: "))
         password = input("Enter password: ")
         Bank_object.register(name, ph, password)
+
+
+x = input()
